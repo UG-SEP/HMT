@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/source">
+        <file>Img/exit.jpg</file>
+        <file>Img/new window.jpg</file>
+        <file>Img/New.jpg</file>
+        <file>Img/open.jpg</file>
+        <file>Img/save as.jpg</file>
+        <file>Img/save.jpg</file>
+        <file>Img/copy.jpg</file>
+        <file>Img/cut.jpg</file>
+        <file>Img/paste.jpg</file>
+        <file>Img/redo.jpg</file>
+        <file>Img/undo.jpg</file>
+        <file>Img/date_time.jpg</file>
+        <file>Img/find.jpg</file>
+        <file>Img/replace.jpg</file>
+        <file>Img/select_all.jpg</file>
+        <file>Img/find prev.jpg</file>
+        <file>Img/find_next .jpg</file>
+        <file>Img/background_color.jpg</file>
+        <file>Img/color.jpg</file>
+        <file>Img/font.jpg</file>
+        <file>Img/text_background_color.jpg</file>
+        <file>Img/text_color.jpg</file>
+        <file>Img/center.jpg</file>
+        <file>Img/justify.jpg</file>
+        <file>Img/left.jpg</file>
+        <file>Img/right.jpg</file>
+        <file>Img/table.jpg</file>
+        <file>Img/image.jpg</file>
+        <file>Img/zoom in.jpg</file>
+        <file>Img/zoom out.jpg</file>
+        <file>Img/css.jpg</file>
+        <file>Img/html.jpg</file>
+        <file>Img/margin.jpg</file>
+        <file>Img/markdown.jpg</file>
+        <file>Img/print.jpg</file>
+        <file>Img/reading-mode.jpg</file>
+        <file>Img/save as pdf.jpg</file>
+        <file>Img/HMT.jpg</file>
+        <file>Img/export_txt.jpg</file>
+        <file>Img/html_file.jpg</file>
+        <file>Img/markdown_file.jpg</file>
+        <file>Img/open_txt.jpg</file>
+        <file>Img/import_txt.jpg</file>
+    </qresource>
+</RCC>
