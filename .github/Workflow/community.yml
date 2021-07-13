@@ -1,18 +1,17 @@
 on:
   fork:
   push:
-    branches: [ main ]
+    branches: [develop]
   issues:
-    types: [ opened ]
+    types: [opened]
   issue_comment:
-    types: [ created ]
+    types: [created]
   pull_request_target:
-    types: [ opened ]
+    types: [opened]
   pull_request_review_comment:
-    types: [ created ]
+    types: [created]
 
 jobs:
-
   welcome:
     runs-on: ubuntu-latest
     steps:
@@ -20,6 +19,6 @@ jobs:
       - uses: EddieHubCommunity/gh-action-community/src/welcome@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          issue-message: '<h1>It''s great having you contribute to this project</h1> Welcome to the community :nerd_face:'
-          pr-message: '<h1>It''s great having you contribute to this project</h1> Welcome to the community :nerd_face:'
-          footer: 'Please read the <a href="">contributing.md</a> and <a href="">Code of conduct</a> before moving forward'
+          issue-message: '<h1>It''s great having you contribute to this project</h1> Welcome to our project :nerd_face:'
+          pr-message: '<h1>It''s great having you contribute to this project</h1> Welcome to the project :nerd_face:'
+          footer: 'Our developers will respond you as soon as possible 🤓 . Any questions let us know.'
