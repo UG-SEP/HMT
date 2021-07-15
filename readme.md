@@ -45,3 +45,4 @@ Track the [v0.2](https://github.com/UG-SEP/HMT/projects/1) journey
 
 
 [Github](https://github.com/UG-SEP).[LinkedIn](https://www.linkedin.com/in/ujjwal-gupta-ug-233543202/).[Youtube](https://www.youtube.com/channel/UChdmj1kcZiXXsmEKz7dVnWQ).[dev](https://dev.to/ugsep)
+## [HMT Tutorials](https://youtu.be/2x20AyBDvP0)
