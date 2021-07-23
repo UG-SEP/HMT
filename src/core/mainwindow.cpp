@@ -87,7 +87,7 @@ void MainWindow::on_actionNew_triggered()
   file_path = "";
   ui -> textEdit -> resize(maximumHeight(), maximumWidth());
   ui -> textEdit -> document() -> setDocumentMargin(0);
-  ui -> textEdit -> setTextBackgroundColor("white");
+  ui -> textEdit -> setTextBackgroundColor("lightGray");
   ui -> textEdit -> setTextColor("black");
   ui -> textEdit -> setText("");
   ui -> textEdit -> document() -> defaultStyleSheet();
