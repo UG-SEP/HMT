@@ -19,6 +19,6 @@ jobs:
       - uses: EddieHubCommunity/gh-action-community/src/welcome@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          issue-message: '<h1>It''s great having you contribute to this project</h1> Welcome to our project :nerd_face: '
+          issue-message: '<h1>It''s great having you contribute to this project</h1> Welcome to our project 😊😊😊 '
           pr-message: '<h1>It''s great having you contribute to this project</h1> Welcome to the project :nerd_face:'
           footer: 'Please🙏 read the <a href="https://github.com/UG-SEP/HMT/blob/main/CONTRIBUTING.md">contributing.md</a> and <a href="https://github.com/UG-SEP/HMT/blob/main/CODE_OF_CONDUCT.md"> code of conduct </a>.'
