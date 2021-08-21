@@ -1,3 +1,10 @@
+![](https://img.shields.io/badge/Welcome-Developers-sliver.svg) 
+![](https://img.shields.io/badge/Programming_Language-c++-blue.svg)
+![](https://img.shields.io/badge/Framework-Qt-gold.svg)
+![](https://img.shields.io/badge/Platform-Desktop_Development-green.svg)
+![](https://img.shields.io/badge/Status-Beta-red.svg)
+![](https://img.shields.io/badge/Version-Qt_6.1-red.svg)
+![](https://img.shields.io/badge/Version-1.00-blue.svg)
 <h1 align="center">HMT</h1>
 <p align="center"><img width="300" height="250" src="Images/HMT.jpg" /></p>
 HMT is a text editor and source code editor which provides you to interface with HTML, Markdown, Inline CSS and Internal CSS. It supports GitHub Flavored Markdown, but it may still have some incompatibilities...
